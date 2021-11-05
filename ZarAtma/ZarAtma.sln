@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZarAtma", "ZarAtma\ZarAtma.csproj", "{017DDF13-16A8-49D3-B320-1A0B9102E423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{017DDF13-16A8-49D3-B320-1A0B9102E423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017DDF13-16A8-49D3-B320-1A0B9102E423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017DDF13-16A8-49D3-B320-1A0B9102E423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017DDF13-16A8-49D3-B320-1A0B9102E423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C7DAC4-0F84-41D9-B202-C9F27D80ECA1}
+	EndGlobalSection
+EndGlobal

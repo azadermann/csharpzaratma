@@ -1,0 +1,14 @@
+D:\c# Uygulamalar\ZarAtma\ZarAtma\bin\Debug\netcoreapp3.1\ZarAtma.exe
+D:\c# Uygulamalar\ZarAtma\ZarAtma\bin\Debug\netcoreapp3.1\ZarAtma.deps.json
+D:\c# Uygulamalar\ZarAtma\ZarAtma\bin\Debug\netcoreapp3.1\ZarAtma.runtimeconfig.json
+D:\c# Uygulamalar\ZarAtma\ZarAtma\bin\Debug\netcoreapp3.1\ZarAtma.runtimeconfig.dev.json
+D:\c# Uygulamalar\ZarAtma\ZarAtma\bin\Debug\netcoreapp3.1\ZarAtma.dll
+D:\c# Uygulamalar\ZarAtma\ZarAtma\bin\Debug\netcoreapp3.1\ZarAtma.pdb
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.csproj.AssemblyReference.cache
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.AssemblyInfoInputs.cache
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.AssemblyInfo.cs
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.csproj.CoreCompileInputs.cache
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.dll
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.pdb
+D:\c# Uygulamalar\ZarAtma\ZarAtma\obj\Debug\netcoreapp3.1\ZarAtma.genruntimeconfig.cache
